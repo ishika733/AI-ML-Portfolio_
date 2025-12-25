@@ -1,0 +1,4 @@
+root: C:\Users\ishika\Downloads\AI-ML-Portfolio-main\used-cars-price-prediction 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
